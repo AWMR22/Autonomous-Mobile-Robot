@@ -23,8 +23,10 @@ Autonomous mobile robots make processes and workflows more efficient and product
 
 - ROS Noetic
 - Ubuntu 20.04 (LTS)
-
-
+- You need to clone slam-toolbox from this link
+```bash 
+https://github.com/SteveMacenski/slam_toolbox/tree/noetic-devel-unfixed 
+```
 ## `how to get started ? ;)`
 
 `First`
