@@ -22,7 +22,7 @@ Autonomous mobile robots make processes and workflows more efficient and product
 ## Dependencies 
 
 - ROS Noetic
-- Ubuntu 20.04
+- Ubuntu 20.04 (LTS)
 
 
 ## `how to get started ? ;)`
