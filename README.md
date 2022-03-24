@@ -1,7 +1,7 @@
 # Autonomous-Mobile-Robot 🤖 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-## introduction
+## Introduction
 
 In any supply chain, the warehouse is a main component in linking the chain partners and nowadays it acts as a competitive factor. Hence, it has become very necessary to manage warehouses effectively and allocate their resources efficiently. Warehouse Management Systems (WMSs) have been developed for monitoring, tracking, and controlling the warehouse operations, but with the increasing dynamicity of the market, traditional systems have become less efficient and unsuitable for today’s market requirements, that is why new technologies have started to emerge to be used for such applications. Internet of Things (IoT) is a promising technology that can be used in the context of Industry 4.0 
 
