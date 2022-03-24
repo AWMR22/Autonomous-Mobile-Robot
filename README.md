@@ -19,8 +19,27 @@ Autonomous mobile robots make processes and workflows more efficient and product
 
 ![image](https://user-images.githubusercontent.com/102316688/159981328-37300b8f-15d4-4502-af29-50e9741f6e7c.png)
 
+## Dependencies 
+
+- ROS Noetic
+- Ubuntu 20.04
+
 
 ## `how to get started ? ;)`
+
+`First`
+
+
+after clone or download the repo 
+
+```bash
+cd home/agv_ws
+```
+
+```bash
+catkin_make
+``` 
+
 ### `start the environment & visualization` 
 ```bash
 roslaunch agv_urdf gazebo.launch
